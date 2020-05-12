@@ -35,7 +35,7 @@ p {
 .letter {
   display: inline-block;
   position: relative;
-  float: left;
+  /* float:left; */
   transform: translateZ(25px);
   transform-origin: 50% 50% 25px;
 }
@@ -72,4 +72,12 @@ p {
 
 .midnight {
   color: #2c3e50;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.gold {
+  color: #FFD700;
 }
