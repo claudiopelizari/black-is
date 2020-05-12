@@ -10,5 +10,5 @@
 <h4 align="center">A simple project to elegantly spread all the feelings of a strong word, with many meanings, so, Black is...</h4>
 
 <p align="center">    
-  <a href="https://claudiopelizari.github.io/black-is/" target="_blank">👁️‍🗨️ Live Preview </a>
+   👁️‍🗨️ <a href="https://claudiopelizari.github.io/black-is/" target="_blank">Live Preview</a>
 </p>
